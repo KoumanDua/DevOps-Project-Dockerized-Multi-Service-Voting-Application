@@ -98,3 +98,29 @@ The voting application only accepts one vote per client. It does not register vo
 This isn't an example of a properly architected perfectly designed distributed app... it's just a simple 
 example of the various types of pieces and languages you might see (queues, persistent data, etc), and how to 
 deal with them in Docker at a basic level. 
+
+
+
+## 🚀 My Personal Contribution
+
+As part of my DevOps and Docker learning journey, I contributed to this project by:
+
+✔️ Updating the Docker base image from `node:10-slim` to `node:18-slim` to ensure compatibility and solve build issues.
+
+✔️ Successfully deploying and running the application locally using Docker and Docker Compose.
+
+✔️ Validating that all services work correctly in my local environment.
+
+✔️ Documenting the deployment with screenshots.
+
+### 📸 Screenshots
+- Docker containers running:
+![Docker ps](images/docker_ps.png)
+
+- Voting application running locally:
+![Voting App](images/voting_app.png)
+
+---
+
+> ✨ Personal work performed by **Kobenan Kouman Dua** as part of my DevOps training.  
+> 📫 Contact: [LinkedIn](https://www.linkedin.com/in/kobenan-kouman-dua-2904531b7/)
